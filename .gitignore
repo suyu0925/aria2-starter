@@ -1,0 +1,7 @@
+*
+!.gitignore
+!aria2.conf
+!aria2c.exe
+!dht.dat
+!dl.bat
+!README.md
